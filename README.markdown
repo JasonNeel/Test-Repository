@@ -8,4 +8,4 @@ This is just my way of experimenting and getting used to using version control a
 
 In other words,
 
-_HELLO WORLD!_
+*HELLO WORLD!*
