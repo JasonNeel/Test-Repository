@@ -1,4 +1,4 @@
-JASON'S TEST RPOSITORY
+JASON'S TEST REPOSITORY
 ======================
 
 Testing Markdown Formatting
